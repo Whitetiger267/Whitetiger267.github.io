@@ -1,0 +1,17 @@
+body {
+background-color: red;
+color: yellow;
+padding: 5px;
+}
+
+#image {
+float: left;
+}
+
+#description {
+float: right;
+}
+
+#reviews {
+clear: both;
+}
