@@ -1,0 +1,36 @@
+<DOCTYPE! html>
+
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Beetle Fan Page<h1>
+
+<p>Welcome to the Beetle Fan page, here we have ALL of the info on beetles.<p>
+
+<div id="image"><img src="coolbeetle.png" width=600px><div><div id="description"><p>A cool beetle.<p></div>
+
+
+
+<div id="reviews"></div>
+<div id="review"></div>
+
+<p id="name">beetlelover7:<p>
+Found my wife on here.</p>
+
+<p id="name">henryklein:</p>
+<p id="content">I hate this website, Becuase of it I broke both of my legs.</p>
+
+<p id="name">beetle:</p>
+<p id="content">chirping</p>
+
+<p id="name">beetleOo:</p>
+<p id="content">This website is good.</p>
+
+<p id="name">beetleEh:</p>
+<p id="content">This website is bad.</p>
+
+</body>
+</html>
